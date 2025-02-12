@@ -34,18 +34,20 @@ the training sets and validation sets of commonly used MOT datasets including
 [MOT17](https://motchallenge.net/data/MOT17/), [DanceTrack](https://dancetrack.github.io/) and [SportsMOT](https://github.com/MCG-NJU/SportsMOT?tab=readme-ov-file) with language descriptions
 at both scene and instance levels.
 
-| \multicolumn{2}{|c|}{Category}                                                | Video        | Anno Boxes | Anno Trajectories |
-|-------------------------------------------------------------------------------|--------------|------------|-------------------|
-| \multicolumn{1}{|c|}{\multirow{3}{*}{\begin{tabular}[c]{@{}c@{}}Collision and |
-| \multicolumn{1}{|c|}{}                                                        | NewtonCradle | 7          | 300               | 79  |
-| \multicolumn{1}{|c|}{}                                                        | Traffic      | 10         | 180               | 90  |
-| \multicolumn{1}{|c|}{\multirow{2}{*}{\begin{tabular}[c]{@{}c@{}}Gravity and   |
-| \multicolumn{1}{|c|}{}                                                        | FootBall     | 7          | 960               | 76  |
-| \multicolumn{1}{|c|}{\multirow{2}{*}{\begin{tabular}[c]{@{}c@{}}Levers and    |
-| \multicolumn{1}{|c|}{}                                                        | Mirror       | 11         | 1800              | 89  |
-| \multicolumn{1}{|c|}{Total}                                                   | -            | 72         | 7320              | 711 |
+| Category | Sub - category | Video | Anno Boxes | Anno Trajectories |
+| --- | --- | --- | --- | --- |
+| <br>Collision and <br>Chain Reaction | Billiard | 16 | 2160 | 198 |
+|                                      | NewtonCradle | 7 | 300 | 79 |
+|                                      | Traffic | 10 | 180 | 90 |
+| Gravity and Force | Basketball | 6 | 1080 | 34 |
+| Gravity and Force | FootBall | 7 | 960 | 76 |
+| Levers and Mirrors | Seesaw | 15 | 840 | 145 |
+| Levers and Mirrors | Mirror | 11 | 1800 | 89 |
+| Total | - | 72 | 7320 | 711 |
 
+**Table caption**: An overview of our proposed VOI dataset. This dataset has 72 videos and contains three typical types of object interactions, including *collision and chain reaction*, *gravity and force*, and *levers and mirrors*. We counted the number of videos, annotated boxes, and the objects trajectories.
 
+**Table label**: table:dataset
 
 
 | Dataset|Videos (Scenes) |Annotated Scenes |Tracks (Instances) | Annotated Instances|Annotated Boxes |Frames|
