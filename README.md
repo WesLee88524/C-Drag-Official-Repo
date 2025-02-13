@@ -13,8 +13,8 @@
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2406.04844.pdf)
 
 ## Latest 
-- `2025/02/12`: We released our code and benchmark.
-- `2025/02/12`: We released our technical report on [arxiv](https://arxiv.org/abs/2406.04844.pdf). Our code and models are coming soon!
+- `2025/02/14`: We released our code and benchmark.
+- `2025/02/13`: We released our technical report on [arxiv](https://arxiv.org/abs/2406.04844.pdf). Our code and models are coming soon!
 
 <br>
 <details>
@@ -91,14 +91,15 @@ It will launch a gradio demo, and you can drag an image and animate it!
 ## Citation
 if you use our work, please consider citing us:
 ```BibTeX
-@misc{li2024multigranularity,
-      title={Multi-Granularity Language-Guided Multi-Object Tracking}, 
-      author={Yuhao Li and Muzammal Naseer and Jiale Cao and Yu Zhu and Jinqiu Sun and Yanning Zhang and Fahad Shahbaz Khan},
-      year={2024},
-      eprint={2406.04844},
+@misc{li2025cdrag,
+      title={C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation}, 
+      author={Yuhao Li and Mirana Claire Angel and Salman Khan and Yu Zhu and Jinqiu Sun and Yanning Zhang and Fahad Shahbaz Khan},
+      year={2025},
+      eprint={2502.04844},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+
 
 ```
 
