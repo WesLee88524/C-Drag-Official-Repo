@@ -10,10 +10,10 @@
 #### **Northwestern Polytechnical University， Mohamed bin Zayed University of AI, Australian National University, Linköping University**
 
 <!-- [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](site_url) -->
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2406.04844.pdf)
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]([https://arxiv.org/abs/2406.04844.pdf](https://github.com/WesLee88524/C-Drag-Official-Repo))
 
 ## Latest 
-- `2025/02/27`: We released our technical report on [arxiv](https://arxiv.org/abs/2406.04844.pdf). Our code and models are coming soon!
+- `2025/02/27`: We released our technical report on [arxiv]([https://arxiv.org/abs/2406.04844.pdf](https://github.com/WesLee88524/C-Drag-Official-Repo)). Our code and models are coming soon!
 - `2025/02/13`: We built this repo.
 
 <br>
@@ -95,7 +95,6 @@ if you use our work, please consider citing us:
       title={C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation}, 
       author={Yuhao Li and Mirana Claire Angel and Salman Khan and Yu Zhu and Jinqiu Sun and Yanning Zhang and Fahad Shahbaz Khan},
       year={2025},
-      eprint={2502.04844},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
