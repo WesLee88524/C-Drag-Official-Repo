@@ -100,10 +100,6 @@ if you use our work, please consider citing us:
 
 ```
 
-
-## License
-This project is released under the Apache license. See [LICENSE](LICENSE) for additional details.
-
 ## Acknowledgement
 We appreciate the open source of the following projects:
 [DragNUWA](https://github.com/camenduru/DragNUWA), [DragAnything](https://github.com/showlab/DragAnything);
