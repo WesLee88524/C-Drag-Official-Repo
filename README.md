@@ -12,21 +12,15 @@
 <!-- [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](site_url) -->
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2502.19868)
 
-## Latest 
+## Updates 
 - `2025/02/28`: We released our new [VOI](https://drive.google.com/file/d/1L2SYadeqZPObvSj9Mb6fK-KHtR0n-DKk/view?usp=sharing) dataset. 
 - `2025/02/27`: We released our technical report on [arxiv](https://arxiv.org/abs/2502.19868). Our code and models are coming soon!
 - `2025/02/13`: We built this repo.
 
-<br>
-<details>
-  <summary>
-  <font size="+1">Abstract</font>
-  </summary>
-Trajectory-based motion control has emerged as an intuitive and efficient approach for controllable video generation. However, the existing trajectory-based approaches are usually limited to only generating the motion trajectory of the controlled object and ignoring the dynamic interactions between the controlled object and its surroundings. To address this limitation, we propose a Chain-of-Thought-based motion controller for controllable video generation, named C-Drag. Instead of directly generating the motion of some objects, 
+
+> **<p align="justify"> Abstract:** *Trajectory-based motion control has emerged as an intuitive and efficient approach for controllable video generation. However, the existing trajectory-based approaches are usually limited to only generating the motion trajectory of the controlled object and ignoring the dynamic interactions between the controlled object and its surroundings. To address this limitation, we propose a Chain-of-Thought-based motion controller for controllable video generation, named C-Drag. Instead of directly generating the motion of some objects, 
 our C-Drag first performs object perception and then reasons the dynamic interactions between different objects according to the given motion control of the objects. Specifically, our method includes an object perception module and a Chain-of-Thought-based motion reasoning module. The object perception module employs visual language models to capture the position and category information of various objects within the image. The Chain-of-Thought-based motion reasoning module takes this information as input and conducts a stage-wise reasoning process to generate motion trajectories for each of the affected objects, which are subsequently fed to the diffusion model for video synthesis.  
-Furthermore, we introduce a new video object interaction (VOI) dataset to evaluate the generation quality of motion controlled video generation methods. Our VOI dataset contains three typical types of interactions and provides the motion trajectories of objects that can be used for accurate performance evaluation.  Experimental results show that C-Drag achieves promising performance across multiple metrics, excelling in object motion control. 
-Our benchmark, codes, and models will be publicly released. 
-</details>
+Furthermore, we introduce a new video object interaction (VOI) dataset to evaluate the generation quality of motion controlled video generation methods. Our VOI dataset contains three typical types of interactions and provides the motion trajectories of objects that can be used for accurate performance evaluation.  Experimental results show that C-Drag achieves promising performance across multiple metrics, excelling in object motion control.*</p>
 
 ## Intro
 
