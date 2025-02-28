@@ -5,9 +5,9 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
-#### [Yuhao Li](), [Mirana Claire Angel](https://www.researchgate.net/profile/Mirana-Angel), [Salman Khan](https://salman-h-khan.github.io/), [Yu Zhu](), [Jinqiu Sun](https://teacher.nwpu.edu.cn/m/2009010133), [Yanning Zhang](https://jszy.nwpu.edu.cn/1999000059) and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
+#### [Yuhao Li](https://github.com/WesLee88524), [Mirana Claire Angel](https://www.researchgate.net/profile/Mirana-Angel), [Salman Khan](https://salman-h-khan.github.io/), [Yu Zhu](), [Jinqiu Sun](https://teacher.nwpu.edu.cn/m/2009010133), [Yanning Zhang](https://jszy.nwpu.edu.cn/1999000059) and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
 
-#### **Northwestern Polytechnical University， Mohamed bin Zayed University of AI, Australian National University, Linköping University**
+#### **Northwestern Polytechnical University， Mohamed bin Zayed University of AI, 9009.ai, Australian National University, Linköping University**
 
 <!-- [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](site_url) -->
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2502.19868)
